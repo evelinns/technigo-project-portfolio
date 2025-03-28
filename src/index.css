@@ -29,17 +29,28 @@ body {
   color: var(--secondary);
 }
 
+svg {
+  fill: var(--primary);
+  transition: fill 0.4s ease;
+}
+
+svg:hover {
+  fill: var(--secondary);
+}
+
 h1 {
   font-family: "Urbanist", --apple-system, sans-serif;
   font-weight: 700;
   font-size: 100px;
   line-height: 100px;
+  margin: 0;
 }
 
 h2 {
   font-weight: 500;
   font-size: 30px;
   line-height: 100%;
+  margin: 0;
 }
 
 p {
@@ -47,4 +58,37 @@ p {
   font-size: 18px;
   line-height: 32px;
   letter-spacing: 0%;
+}
+
+.hero-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.about-me {
+  width: 580px;
+  height: 537px;
+  gap: 64px;
+}
+
+.hero-image {
+  background-color: #fff;
+  border: 6px solid var(--primary);
+  border-radius: 50%;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  width: 432.97613525390625px;
+  height: 430.3029479980469px;
+  top: 244.35px;
+  left: 846.51px;
+}
+
+.social-banner {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 288px;
+  height: 32px;
+  gap: 32px;
 }
