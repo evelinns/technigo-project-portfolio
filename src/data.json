@@ -12,47 +12,47 @@
     },
     {
       "name": "Business site",
-      "image": "",
+      "image": "../assets/business-site.png",
       "tags": [
         "HTML5",
         "CSS3"
       ],
-      "netlify": "link",
-      "github": "link"
+      "netlify": "https://technigo-project-business-site-f92pq5i1l-evelinns-projects.vercel.app",
+      "github": "https://github.com/evelinns/technigo-project-business-site"
     },
     {
       "name": "Pizzabot",
-      "image": "",
+      "image": "../assets/pizza-bot.png",
       "tags": [
         "HTML5",
         "CSS3",
         "JavaScript"
       ],
-      "netlify": "link",
-      "github": "link"
+      "netlify": "https://pizzabot-technigo-task.netlify.app/",
+      "github": "https://github.com/evelinns/technigo-project-pizzabot"
     },
     {
       "name": "Library",
-      "image": "",
+      "image": "../assets/library.png",
       "tags": [
         "HTML5",
         "CSS3",
         "JavaScript"
       ],
-      "netlify": "link",
-      "github": "link"
+      "netlify": "https://technigo-recipe-library.netlify.app/",
+      "github": "https://github.com/evelinns/technigo-project-library"
     },
     {
       "name": "Weather app",
-      "image": "",
+      "image": "../assets/weather-app.png",
       "tags": [
         "HTML5",
         "CSS3",
         "JavaScript",
         "APIs"
       ],
-      "netlify": "link",
-      "github": "link"
+      "netlify": "https://technigo-weather-app-project.netlify.app/",
+      "github": "https://github.com/evelinns/technigo-project-weather-app"
     }
   ]
 }
