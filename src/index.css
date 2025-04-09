@@ -136,3 +136,39 @@ p {
   letter-spacing: 0%;
   text-align: center;
 }
+
+.divider {
+  width: 2px;
+  background-color: var(--primary);
+  margin: 0 20px;
+}
+
+.project-wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.project-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.project-img {
+  width: 200px;
+}
+
+.btn.main {
+  background-color: var(--primary);
+  color: white;
+}
+
+.btn {
+  text-decoration: none;
+  border: 2px solid var(--primary);
+  margin: 10px;
+  padding: 10px 20px;
+  color: var(--primary);
+}

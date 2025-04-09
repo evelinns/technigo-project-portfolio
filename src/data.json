@@ -1,18 +1,8 @@
 {
   "projects": [
     {
-      "name": "News site",
-      "image": "",
-      "tags": [
-        "HTML5",
-        "CSS3"
-      ],
-      "netlify": "link",
-      "github": "link"
-    },
-    {
       "name": "Business site",
-      "image": "../assets/business-site.png",
+      "image": "../src/assets/business-site.png",
       "tags": [
         "HTML5",
         "CSS3"
@@ -22,7 +12,7 @@
     },
     {
       "name": "Pizzabot",
-      "image": "../assets/pizza-bot.png",
+      "image": "../src/assets/pizza-bot.png",
       "tags": [
         "HTML5",
         "CSS3",
@@ -33,7 +23,7 @@
     },
     {
       "name": "Library",
-      "image": "../assets/library.png",
+      "image": "../src/assets/library.png",
       "tags": [
         "HTML5",
         "CSS3",
@@ -44,7 +34,7 @@
     },
     {
       "name": "Weather app",
-      "image": "../assets/weather-app.png",
+      "image": "../src/assets/weather-app.png",
       "tags": [
         "HTML5",
         "CSS3",

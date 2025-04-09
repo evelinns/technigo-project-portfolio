@@ -32,12 +32,15 @@ export const Skills = () => {
         {skillsData.map((skill, index) => (
           <SkillsCard key={index} title={skill.title} items={skill.items} />
         ))}
+        <span className="divider"/>
         {toolBoxData.map((skill, index) => (
           <SkillsCard key={index} title={skill.title} items={skill.items} />
         ))}
+        <span className="divider"/>
         {upcomingData.map((skill, index) => (
           <SkillsCard key={index} title={skill.title} items={skill.items} />
         ))}
+        <span className="divider"/>
         {moreData.map((skill, index) => (
           <SkillsCard key={index} title={skill.title} items={skill.items} />
         ))}
