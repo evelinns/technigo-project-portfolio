@@ -4,7 +4,7 @@ export const Skills = () => {
   const skillsData = [
     {
       title: "Code",
-      items: ["HTML5", "CSS3", "JavaScript ES6", "React", "Styled Components", "Github"]
+      items: ["HTML5", "CSS3", "JavaScript ES6", "React", "Styled Components", "Github", "NextJS", "TypeScript"]
     }
   ];
   const toolBoxData = [

@@ -43,6 +43,40 @@
       ],
       "netlify": "https://technigo-weather-app-project.netlify.app/",
       "github": "https://github.com/evelinns/technigo-project-weather-app"
+    },
+    {
+      "name": "Online CV",
+      "image": "../src/assets/online-cv.png",
+      "tags": [
+        "HTML5",
+        "CSS3",
+        "React"
+      ],
+      "netlify": "https://evelinns.work/",
+      "github": "https://github.com/evelinns"
+    },
+    {
+      "name": "Photography page",
+      "image": "../src/assets/photos.png",
+      "tags": [
+        "HTML5",
+        "CSS3",
+        "TypeScript"
+      ],
+      "netlify": "https://www.evelinns.photos/",
+      "github": "https://github.com/evelinns"
+    },
+    {
+      "name": "Input Converter",
+      "image": "../src/assets/input.png",
+      "tags": [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "NextJS"
+      ],
+      "netlify": "https://convert-input.vercel.app/",
+      "github": "https://github.com/evelinns/convert-input"
     }
   ]
 }
