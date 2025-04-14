@@ -67,7 +67,6 @@ h4 {
   font-weight: 500;
   font-size: 30px;
   line-height: 100%;
-  letter-spacing: 0%;
   text-align: center;
 }
 
@@ -144,23 +143,27 @@ p {
 }
 
 .project-wrapper {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  overflow-y: scroll;
+  max-width: 100%;
+  overflow: hidden;
+  padding: 0 1rem;
+  position: relative;
 }
 
 .project-card {
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: flex-start;
   align-items: center;
-  width: 400px;
+  width: 100%;
+  max-width: 400px;
   height: 625px;
+  margin: 0 auto;
 }
 
 .project-img {
-  width: 400px;
+  width: 100%;
+  height: auto;
+  object-fit: cover;
 }
 
 .btn.main {

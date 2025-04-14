@@ -2,6 +2,7 @@
   "projects": [
     {
       "name": "Business site",
+      "blurb": "Form allowing you to submit your details and what your next knitting project will be. The site is built using HTML and CSS.",
       "image": "../src/assets/business-site.png",
       "tags": [
         "HTML5",
@@ -12,6 +13,7 @@
     },
     {
       "name": "Pizzabot",
+      "blurb": "Using JavaScript, creating prompts for the user to select their order and continue to the flow with the relevant options pending previous choices made.",
       "image": "../src/assets/pizza-bot.png",
       "tags": [
         "HTML5",
@@ -23,6 +25,7 @@
     },
     {
       "name": "Library",
+      "blurb": "Library of recepies built using HTML, CSS and Javascript. The page includes options to filter based on cuisine and time it takes to cook the dish.",
       "image": "../src/assets/library.png",
       "tags": [
         "HTML5",
@@ -34,6 +37,7 @@
     },
     {
       "name": "Weather app",
+      "blurb": "Using a weather API to display the weather forcast for London. The header of the page changes color depending on the weather and if it's warm or cold as well as icon of the type of weather changes pending this too.",
       "image": "../src/assets/weather-app.png",
       "tags": [
         "HTML5",
@@ -46,6 +50,7 @@
     },
     {
       "name": "Online CV",
+      "blurb": "Created a page for my worklife experience. The header changes depending on the time of day. At the bottom links to projects built is present. Site is built using React.",
       "image": "../src/assets/online-cv.png",
       "tags": [
         "HTML5",
@@ -57,17 +62,20 @@
     },
     {
       "name": "Photography page",
+      "blurb": "Built a page for my sidehobby which is photography. The Site is pulling in photos I took which are uploaded on Unsplash and pulled into the page using their API.",
       "image": "../src/assets/photos.png",
       "tags": [
         "HTML5",
         "CSS3",
-        "TypeScript"
+        "TypeScript",
+        "APIs"
       ],
       "netlify": "https://www.evelinns.photos/",
       "github": "https://github.com/evelinns"
     },
     {
       "name": "Input Converter",
+      "blurb": "Created a converter to format data correctly in line with a platform at work. The formatting would otherwise be very manual and reqiure a lot of time so this page will do it for you automatically. The input should be copied a column from excel and pasted as is, then it will output it commaseparated with quotationmarks around phrases.",
       "image": "../src/assets/input.png",
       "tags": [
         "HTML5",
