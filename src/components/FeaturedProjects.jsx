@@ -13,6 +13,9 @@ export const FeaturedProjects = () => {
     slidesToShow: 4,
     slidesToScroll: 4,
     initialSlide: 0,
+    pauseOnHover: true,
+    focusOnSelect: true,
+    arrows: true,
     responsive: [
       {
         breakpoint: 1024,
@@ -28,14 +31,17 @@ export const FeaturedProjects = () => {
         settings: {
           slidesToShow: 2,
           slidesToScroll: 2,
-          initialSlide: 2
+          initialSlide: 2,
+          swipeToSlide: true,
         }
       },
       {
         breakpoint: 480,
         settings: {
           slidesToShow: 1,
-          slidesToScroll: 1
+          slidesToScroll: 1,
+          fade: true,
+          swipeToSlide: true, 
         }
       }
     ]
