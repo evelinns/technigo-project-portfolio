@@ -9,13 +9,15 @@ export const FeaturedProjects = () => {
   let settings = {
     dots: true,
     infinite: true,
-    speed: 500,
+    // speed: 500,
     slidesToShow: 4,
     slidesToScroll: 4,
     initialSlide: 0,
     pauseOnHover: true,
     focusOnSelect: true,
     arrows: true,
+    centerMode: true,
+  centerPadding: "60px",
     responsive: [
       {
         breakpoint: 1024,
@@ -53,7 +55,8 @@ export const FeaturedProjects = () => {
     <h2>Featured Projects</h2>
     <Slider {...settings}>
     {projectsInfo.map((project) => (
-      <div key={project.name} style={{ padding: '0 10px' }}>
+      // <div key={project.name} style={{ padding: '0 10px' }}>
+      <div key={project.name}>
       <FeaturedProjectsCard img={project.image} title={project.name} blurb={project.blurb} netlify={project.netlify} github={project.github} />
       </div>
     ))}

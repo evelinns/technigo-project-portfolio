@@ -8,8 +8,8 @@ Replace this readme with your own information about the project. You can include
 - How to run the project locally
 
 ## View it live
-Every project should be deployed somewhere. Be sure to include the link to the deployed project so that the viewer can click around and see what it's all about.
 
+Every project should be deployed somewhere. Be sure to include the link to the deployed project so that the viewer can click around and see what it's all about.
 
 ## Getting Started with the Project
 
@@ -22,3 +22,8 @@ The command below is a combination of installing dependencies, opening up the pr
 ```bash
 npm i && code . && npm run dev
 ```
+
+TODO
+
+- responsive styling
+- Slick slider fix buttons and layout on smaller screens
