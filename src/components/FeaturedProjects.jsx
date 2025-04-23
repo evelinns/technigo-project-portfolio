@@ -19,7 +19,7 @@ export const FeaturedProjects = () => {
     centerPadding: "60px",
     responsive: [
       {
-        breakpoint: 1024,
+        breakpoint: 1280,
         settings: {
           slidesToShow: 3,
           slidesToScroll: 3,
@@ -28,7 +28,7 @@ export const FeaturedProjects = () => {
         }
       },
       {
-        breakpoint: 820,
+        breakpoint: 890,
         settings: {
           slidesToShow: 2,
           slidesToScroll: 2,
