@@ -55,7 +55,6 @@ export const FeaturedProjects = () => {
     <h2>Featured Projects</h2>
     <Slider {...settings}>
     {projectsInfo.map((project) => (
-      // <div key={project.name} style={{ padding: '0 10px' }}>
       <div key={project.name}>
       <FeaturedProjectsCard img={project.image} title={project.name} blurb={project.blurb} netlify={project.netlify} github={project.github} />
       </div>
