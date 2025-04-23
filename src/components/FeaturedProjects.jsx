@@ -42,7 +42,8 @@ export const FeaturedProjects = () => {
           slidesToShow: 1,
           slidesToScroll: 1,
           fade: true,
-          swipeToSlide: true, 
+          swipeToSlide: true,
+          centerPadding: "20px", 
         }
       }
     ]

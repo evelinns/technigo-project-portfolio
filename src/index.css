@@ -270,6 +270,14 @@ p {
     flex-direction: column;
   }
 
+  .btn-container {
+    flex-direction: column;
+  }
+
+  .btn {
+    width: 100%;
+  }
+
   .contact-card {
     flex-direction: column;
     align-items: center;
@@ -277,5 +285,46 @@ p {
 
   .contact-details {
     width: 700px;
+  }
+}
+
+/** Mobile styling **/
+@media screen and (max-width: 819px) {
+  h1,
+  h2 {
+    font-size: 50px;
+    line-height: 50px;
+  }
+
+  .hero-container {
+    padding: 30px 0;
+  }
+
+  .hero-image {
+    width: 352.976135px;
+    height: 350.302948px;
+  }
+
+  .about-me {
+    width: 327px;
+    height: 677px;
+  }
+
+  .skills-wrapper {
+    flex-direction: column;
+  }
+
+  .slider-container {
+    align-items: center;
+    width: 100vw;
+  }
+
+  .contact-card {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .contact-details {
+    width: 327px;
   }
 }
