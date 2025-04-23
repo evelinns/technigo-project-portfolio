@@ -9,7 +9,6 @@ export const FeaturedProjects = () => {
   let settings = {
     dots: true,
     infinite: true,
-    // speed: 500,
     slidesToShow: 4,
     slidesToScroll: 4,
     initialSlide: 0,
@@ -17,7 +16,7 @@ export const FeaturedProjects = () => {
     focusOnSelect: true,
     arrows: true,
     centerMode: true,
-  centerPadding: "60px",
+    centerPadding: "60px",
     responsive: [
       {
         breakpoint: 1024,
@@ -29,7 +28,7 @@ export const FeaturedProjects = () => {
         }
       },
       {
-        breakpoint: 600,
+        breakpoint: 820,
         settings: {
           slidesToShow: 2,
           slidesToScroll: 2,
