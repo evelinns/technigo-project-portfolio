@@ -145,13 +145,6 @@ p {
   margin: 0 20px;
 }
 
-/* .project-wrapper {
-  max-width: 100%;
-  overflow: hidden;
-  padding: 0 1rem;
-  position: relative;
-} */
-
 .project-card {
   display: flex;
   flex-direction: column;
