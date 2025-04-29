@@ -28,7 +28,7 @@ export const FeaturedProjects = () => {
         }
       },
       {
-        breakpoint: 830,
+        breakpoint: 890,
         settings: {
           slidesToShow: 2,
           slidesToScroll: 2,
@@ -37,7 +37,7 @@ export const FeaturedProjects = () => {
         }
       },
       {
-        breakpoint: 420,
+        breakpoint: 490,
         settings: {
           slidesToShow: 1,
           slidesToScroll: 1,
