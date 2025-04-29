@@ -164,6 +164,7 @@ p {
   display: flex;
   justify-content: center;
   gap: 1rem;
+  margin-top: 10px;
 }
 
 .btn.main {
@@ -174,7 +175,6 @@ p {
 .btn {
   text-decoration: none;
   border: 2px solid var(--primary);
-  margin: 10px;
   padding: 10px 20px;
   color: var(--primary);
   cursor: pointer;
