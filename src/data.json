@@ -3,7 +3,7 @@
     {
       "name": "Business site",
       "blurb": "Form allowing you to submit your details and what your next knitting project will be along with your name and details. Upon submit it is sent to httpbin.",
-      "image": "/business-site.png",
+      "image": "/business-site.jpeg",
       "tags": [
         "HTML5",
         "CSS3"
@@ -14,7 +14,7 @@
     {
       "name": "Pizzabot",
       "blurb": "Using JavaScript, creating prompts for the user to select their order and continue to the flow with the relevant options pending previous choices made.",
-      "image": "/pizza-bot.png",
+      "image": "/pizza-bot.jpeg",
       "tags": [
         "HTML5",
         "CSS3",
@@ -26,7 +26,7 @@
     {
       "name": "Library",
       "blurb": "Library of recepies built using HTML, CSS and Javascript. The page includes options to filter based on cuisine and time it takes to cook the dish.",
-      "image": "/library.png",
+      "image": "/library.jpeg",
       "tags": [
         "HTML5",
         "CSS3",
@@ -38,7 +38,7 @@
     {
       "name": "Weather app",
       "blurb": "Using a weather API to display the weather forcast for London. The header of the page and icon will change depending on if it's warm or cold",
-      "image": "/weather-app.png",
+      "image": "/weather-app.jpeg",
       "tags": [
         "HTML5",
         "CSS3",
@@ -51,7 +51,7 @@
     {
       "name": "Online CV",
       "blurb": "Created a page for my worklife experience. The header changes depending on the time of day. At the bottom links to projects built is present. Site is built using React.",
-      "image": "/online-cv.png",
+      "image": "/online-cv.jpeg",
       "tags": [
         "HTML5",
         "CSS3",
@@ -63,7 +63,7 @@
     {
       "name": "Photography page",
       "blurb": "Built a page for my sidehobby which is photography. The Site is pulling in photos I took which are uploaded on Unsplash and pulled into the page using their API.",
-      "image": "/photos.png",
+      "image": "/photos.jpeg",
       "tags": [
         "HTML5",
         "CSS3",
@@ -76,7 +76,7 @@
     {
       "name": "Input Converter",
       "blurb": "A converter that formats data to be comma separated and multiple words wrapped in quotes. Paste a column of words from excel and it formats accordingly",
-      "image": "/input.png",
+      "image": "/input.jpeg",
       "tags": [
         "HTML5",
         "CSS3",
