@@ -1,5 +1,69 @@
 {
   "projects": [
+        {
+      "name": "Happy Thoughts",
+      "blurb": "Reading happy thoughts from an API and allowing user to submit happy thoughts to the API and displaying the recently submitted thought.",
+      "image": "/happy-thoughts.jpg",
+      "tags": [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "React"
+      ],
+      "netlify": "https://technigo-happythoughts.netlify.app/",
+      "github": "https://github.com/evelinns/technigo-project-happy-thoughts"
+    },
+    {
+      "name": "Quiz",
+      "blurb": "A quiz using different types of questions. Created during mental health awareness month which was the inspiration for the questions.",
+      "image": "/quiz.jpg",
+      "tags": [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "React"
+      ],
+      "netlify": "https://technigo-quiz.netlify.app/",
+      "github": "https://github.com/evelinns/technigo-project-quiz"
+    },
+    {
+      "name": "Online CV",
+      "blurb": "Created a page for my worklife experience. The header changes depending on the time of day. At the bottom links to projects built is present.",
+      "image": "/online-cv.jpeg",
+      "tags": [
+        "HTML5",
+        "CSS3",
+        "React"
+      ],
+      "netlify": "https://evelinns.work/",
+      "github": "https://github.com/evelinns"
+    },
+    {
+      "name": "Photography page",
+      "blurb": "Built a page for my sidehobby which is photography. The Site is pulling in photos I took which are uploaded on Unsplash and pulled into the page using their API.",
+      "image": "/photos.jpeg",
+      "tags": [
+        "HTML5",
+        "CSS3",
+        "TypeScript",
+        "APIs"
+      ],
+      "netlify": "https://www.evelinns.photos/",
+      "github": "https://github.com/evelinns"
+    },
+    {
+      "name": "Input Converter",
+      "blurb": "A converter that formats data to be comma separated and multiple words wrapped in quotes. Paste from excel to the input and click convert to format.",
+      "image": "/input.jpeg",
+      "tags": [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "NextJS"
+      ],
+      "netlify": "https://convert-input.vercel.app/",
+      "github": "https://github.com/evelinns/convert-input"
+    },
     {
       "name": "Business site",
       "blurb": "Form allowing you to submit your details and what your next knitting project will be along with your name and details. Upon submit it is sent to httpbin.",
@@ -47,44 +111,6 @@
       ],
       "netlify": "https://technigo-weather-app-project.netlify.app/",
       "github": "https://github.com/evelinns/technigo-project-weather-app"
-    },
-    {
-      "name": "Online CV",
-      "blurb": "Created a page for my worklife experience. The header changes depending on the time of day. At the bottom links to projects built is present. Site is built using React.",
-      "image": "/online-cv.jpeg",
-      "tags": [
-        "HTML5",
-        "CSS3",
-        "React"
-      ],
-      "netlify": "https://evelinns.work/",
-      "github": "https://github.com/evelinns"
-    },
-    {
-      "name": "Photography page",
-      "blurb": "Built a page for my sidehobby which is photography. The Site is pulling in photos I took which are uploaded on Unsplash and pulled into the page using their API.",
-      "image": "/photos.jpeg",
-      "tags": [
-        "HTML5",
-        "CSS3",
-        "TypeScript",
-        "APIs"
-      ],
-      "netlify": "https://www.evelinns.photos/",
-      "github": "https://github.com/evelinns"
-    },
-    {
-      "name": "Input Converter",
-      "blurb": "A converter that formats data to be comma separated and multiple words wrapped in quotes. Paste a column of words from excel and it formats accordingly",
-      "image": "/input.jpeg",
-      "tags": [
-        "HTML5",
-        "CSS3",
-        "JavaScript",
-        "NextJS"
-      ],
-      "netlify": "https://convert-input.vercel.app/",
-      "github": "https://github.com/evelinns/convert-input"
     }
   ]
 }
